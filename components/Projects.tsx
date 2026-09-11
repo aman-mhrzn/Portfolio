@@ -23,7 +23,7 @@ const PROJECTS: Project[] = [
       "Led QA across MST platforms like Nepal, Indonesia, Alston, and Global markets ensuring consistency across localized environments. Validated core learning workflows, integrations, region-specific functionality, and feature and content updates to support reliable releases.",
     category: "Senior QA Engineer",
     tags: ["QA Leadership", "Release Validation", "Platform Testing", "Security Testing"],
-    image: "/MST.png",
+    image: "./MST.png",
     websiteLinks: [
       { label: "Global", href: "https://www.mysecondteacher.com/" },
       { label: "Nepal", href: "https://www.mysecondteacher.com.np/" },
@@ -37,7 +37,7 @@ const PROJECTS: Project[] = [
       "Performed QA for an online learning and exam-preparation platform, designing and executing test scenarios for core learning, user management, and assessment workflows, including interactive lessons, quizzes, mock exams, scoring, reports, and student progress.",
     category: "Senior QA Engineer",
     tags: ["Test Design", "Functional Testing", "Defect Management", "Regression Testing"],
-    image: "/HSA.svg",
+    image: "./HSA.svg",
     websiteLinks: [{ label: "Home School Asia", href: "https://homeschool.asia/" }],
   },
   {
@@ -46,7 +46,7 @@ const PROJECTS: Project[] = [
       "Performed functional, regression, UI, and exploratory testing across KFQ, Sifu, and KA platforms. Conducted UAT and final release validation, coordinated cross-functional QA activities, and ensured features met quality standards and were production-ready.",
     category: "QA Engineer",
     tags: ["Functional Testing", "Regression Testing", "UI Testing", "Exploratory Testing"],
-    image: "/KFQ.svg",
+    image: "./KFQ.svg",
     websiteLinks: [{ label: "Kungfu Quiz", href: "https://www.kungfuquiz.com/" }],
   },
   {
@@ -55,7 +55,7 @@ const PROJECTS: Project[] = [
       "Coordinated cross-functional teams across design, development, and QA to deliver an administrative platform supporting the MST ecosystem, managing requirements, delivery tracking, stakeholder coordination, and critical back-office workflows.",
     category: "Project Manager",
     tags: ["Project Management", "Release Management", "Cross-Functional Coordination" , "UAT", ],
-    image: "/Apollo.png",
+    image: "./Apollo.png",
   },
   {
     title: "HRM Module",
@@ -63,7 +63,7 @@ const PROJECTS: Project[] = [
       "Served as Project Manager and key stakeholder, aligning business requirements with implementation while mentoring interns and trainees in delivering a 20+ feature HRM web application.",
     category: "Project Manager",
     tags: ["Project Planning", "Stakeholder Management", "Cross-Functional Coordination", "Mentoring"],
-    image: "/HRM.svg",
+    image: "./HRM.svg",
   },
   {
     title: "Interactive Video Publisher (IVy)",
@@ -71,7 +71,7 @@ const PROJECTS: Project[] = [
       "Tested an interactive video publishing platform, focusing on question triggers, playback behavior, response capture, multiple question formats, and interactive scenarios across supported configurations.",
     category: "QA Engineer",
     tags: ["Functional Testing", "Interactive Video", "Integration Testing", "Test Execution"],
-    image: "/IVY.svg",
+    image: "./IVY.svg",
   },
   
 ];
