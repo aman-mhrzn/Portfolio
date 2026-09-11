@@ -109,7 +109,7 @@ export default function Navbar() {
           </span> */}
           <span className="w-9 h-9 flex items-center justify-center bg-blue">
             <Image
-              src="/AmanMaharjan.png"
+              src="./AmanMaharjan.png"
               alt="AM"
               width={360}
               height={360}
