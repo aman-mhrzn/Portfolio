@@ -102,7 +102,7 @@ export default function Navbar() {
         <a
           href="#home"
           onClick={(e) => handleNavClick(e, "#home")}
-          className="flex items-center gap-2 font-bold text-lg"
+          className="flex items-center gap-2 font-bold text-lg pl-4"
         >
           {/* <span className="w-8 h-8 rounded-lg bg-blue-500/20 border border-blue-500/40 flex items-center justify-center">
             <Bug size={16} className="text-blue-400" />
