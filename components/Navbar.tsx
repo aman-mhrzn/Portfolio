@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import { Menu, X, Download } from "lucide-react";
 import Image from "next/image";
 
+
 const links = [
   { label: "Home", href: "#home" },
   { label: "About", href: "#about" },
@@ -109,7 +110,7 @@ export default function Navbar() {
           </span> */}
           <span className="w-9 h-9 flex items-center justify-center bg-blue">
             <Image
-              src="./AmanMaharjan.png"
+              src="/AmanMaharjan.png"
               alt="AM"
               width={360}
               height={360}
