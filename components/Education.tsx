@@ -9,7 +9,7 @@ export default function Education() {
       school: "Islington College",
       university: "London Metropolitan University",
       location: "Kathmandu, Nepal",
-      logo: "/islington.webp",
+      logo: "./islington.webp",
       logoAlt: "Islington College logo",
     },
     {
@@ -18,7 +18,7 @@ export default function Education() {
       school: "Trinity Int'l College",
       university: "Higher Secondary Education Board",
       location: "Kathmandu, Nepal",
-      logo: "/trinity.webp",
+      logo: "./trinity.webp",
       logoAlt: "Trinity Int'l College logo",
     },
   ];
@@ -77,6 +77,7 @@ export default function Education() {
                 <Image
                   src={edu.logo}
                   alt={edu.logoAlt}
+                  unoptimized
                   width={64}
                   height={64}
                   className="w-full h-full object-contain scale-130"
