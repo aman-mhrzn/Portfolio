@@ -127,7 +127,7 @@ export default function Experience() {
                       <div className="flex items-start gap-4">
                         <div className="w-12 h-12 rounded-xl bg-white/95 border border-blue-500/30 flex items-center justify-center flex-shrink-0 p-1.5">
                           <Image
-                            src="./innovatetech.webp"
+                            src="/innovatetech.webp"
                             alt="Innovate Tech logo"
                             width={36}
                             height={36}
